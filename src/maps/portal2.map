@@ -4,6 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
+"wad" "G:/QuakeDev/wads/id_base.wad"
 // brush 0
 {
 ( 0 9 47 ) ( 0 4 49 ) ( 0 0 48 ) city2_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
