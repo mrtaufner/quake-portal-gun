@@ -176,33 +176,40 @@
 "classname" "light"
 "light" "600"
 "style" "0"
-"origin" "1 0 0"
+"origin" "1 0 72"
 }
 // entity 2
 {
 "classname" "light"
 "light" "600"
 "style" "0"
-"origin" "1 0 72"
+"origin" "1 64 1"
 }
 // entity 3
 {
 "classname" "light"
 "light" "600"
 "style" "0"
-"origin" "1 64 1"
+"origin" "0 0 -71"
 }
 // entity 4
 {
 "classname" "light"
 "light" "600"
 "style" "0"
-"origin" "0 0 -71"
+"origin" "1 -64 1"
 }
 // entity 5
 {
 "classname" "light"
 "light" "600"
 "style" "0"
-"origin" "1 -64 1"
+"origin" "65 0 0"
+}
+// entity 6
+{
+"classname" "light"
+"light" "600"
+"style" "0"
+"origin" "-63 0 0"
 }
