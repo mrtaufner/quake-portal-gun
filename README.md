@@ -19,7 +19,7 @@ gathering pickups on one place and the pick them all up at once; or reaching
 distant items just by shooting at them.)
 
 Portal Gun can also be used as item carrier. Simply aim the item and 
-press 'f'. To drop carried item, press 'f' again.
+press 'g'. To drop carried item, press 'g' again.
 
 ```
 Fig. 1 - Example of clever usage of portal gun - power of gravity:
